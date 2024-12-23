@@ -1,0 +1,14 @@
+E:\Code\LearingDotnetCore\CS5Day\CS5Day\bin\Debug\net9.0\CS5Day.exe
+E:\Code\LearingDotnetCore\CS5Day\CS5Day\bin\Debug\net9.0\CS5Day.deps.json
+E:\Code\LearingDotnetCore\CS5Day\CS5Day\bin\Debug\net9.0\CS5Day.runtimeconfig.json
+E:\Code\LearingDotnetCore\CS5Day\CS5Day\bin\Debug\net9.0\CS5Day.dll
+E:\Code\LearingDotnetCore\CS5Day\CS5Day\bin\Debug\net9.0\CS5Day.pdb
+E:\Code\LearingDotnetCore\CS5Day\CS5Day\obj\Debug\net9.0\CS5Day.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\LearingDotnetCore\CS5Day\CS5Day\obj\Debug\net9.0\CS5Day.AssemblyInfoInputs.cache
+E:\Code\LearingDotnetCore\CS5Day\CS5Day\obj\Debug\net9.0\CS5Day.AssemblyInfo.cs
+E:\Code\LearingDotnetCore\CS5Day\CS5Day\obj\Debug\net9.0\CS5Day.csproj.CoreCompileInputs.cache
+E:\Code\LearingDotnetCore\CS5Day\CS5Day\obj\Debug\net9.0\CS5Day.dll
+E:\Code\LearingDotnetCore\CS5Day\CS5Day\obj\Debug\net9.0\refint\CS5Day.dll
+E:\Code\LearingDotnetCore\CS5Day\CS5Day\obj\Debug\net9.0\CS5Day.pdb
+E:\Code\LearingDotnetCore\CS5Day\CS5Day\obj\Debug\net9.0\CS5Day.genruntimeconfig.cache
+E:\Code\LearingDotnetCore\CS5Day\CS5Day\obj\Debug\net9.0\ref\CS5Day.dll
